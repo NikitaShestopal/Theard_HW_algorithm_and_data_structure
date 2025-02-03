@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9144384e-80a7-4219-abfc-d7b11d5545ad" name="Changes" comment="3.6 complited with &quot;infinite&quot; search and new 3.6 version that needed for eolympe">
-      <change afterPath="$PROJECT_DIR$/3.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asd.py" afterDir="false" />
+    <list default="true" id="9144384e-80a7-4219-abfc-d7b11d5545ad" name="Changes" comment="3.4 complite">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.3.4.executor": "Debug",
     "Python.3.5.executor": "Run",
     "Python.3.6.executor": "Debug",
     "Python.3.7.executor": "Run",
@@ -104,14 +103,32 @@
       <option name="project" value="LOCAL" />
       <updated>1738588030684</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3.7 complite and start of 3.4">
+      <option name="closed" value="true" />
+      <created>1738590753199</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738590753199</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3.4 complite">
+      <option name="closed" value="true" />
+      <created>1738591580199</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738591580199</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first try of 3.5" />
     <MESSAGE value="complited 3.5 and start of 3.6" />
     <MESSAGE value="3.6 complited with &quot;infinite&quot; search and new 3.6 version that needed for eolympe" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.6 complited with &quot;infinite&quot; search and new 3.6 version that needed for eolympe" />
+    <MESSAGE value="3.7 complite and start of 3.4" />
+    <MESSAGE value="3.4 complite" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.4 complite" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -140,6 +157,50 @@
           <url>file://$PROJECT_DIR$/3.6_inf_version.py</url>
           <line>4</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3.4.py</url>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3.4.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3.4.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3.4.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3.4.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3.4.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3.4.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3.4.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3.4.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="77" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
