@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9144384e-80a7-4219-abfc-d7b11d5545ad" name="Changes" comment="complited 3.5 and start of 3.6">
+    <list default="true" id="9144384e-80a7-4219-abfc-d7b11d5545ad" name="Changes" comment="3.6 complited with &quot;infinite&quot; search and new 3.6 version that needed for eolympe">
+      <change afterPath="$PROJECT_DIR$/3.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,8 @@
   "keyToString": {
     "Python.3.5.executor": "Run",
     "Python.3.6.executor": "Debug",
+    "Python.3.7.executor": "Run",
+    "Python.asd.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -93,89 +96,48 @@
       <option name="project" value="LOCAL" />
       <updated>1738587582476</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3.6 complited with &quot;infinite&quot; search and new 3.6 version that needed for eolympe">
+      <option name="closed" value="true" />
+      <created>1738588030684</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738588030684</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first try of 3.5" />
     <MESSAGE value="complited 3.5 and start of 3.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="complited 3.5 and start of 3.6" />
+    <MESSAGE value="3.6 complited with &quot;infinite&quot; search and new 3.6 version that needed for eolympe" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.6 complited with &quot;infinite&quot; search and new 3.6 version that needed for eolympe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.5.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.5.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.5.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.5.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.5.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.5.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.5.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.5.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.5.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.6.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.6.py</url>
+          <url>file://$PROJECT_DIR$/3.6_inf_version.py</url>
           <line>8</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.6.py</url>
+          <url>file://$PROJECT_DIR$/3.6_inf_version.py</url>
           <line>7</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.6.py</url>
+          <url>file://$PROJECT_DIR$/3.6_inf_version.py</url>
           <line>5</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.6.py</url>
+          <url>file://$PROJECT_DIR$/3.6_inf_version.py</url>
           <line>6</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3.6.py</url>
+          <url>file://$PROJECT_DIR$/3.6_inf_version.py</url>
           <line>4</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
